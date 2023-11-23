@@ -1,0 +1,12 @@
+D:\Training materials\Fundamentals\CleanArchitectureDemo\CollegeApp.Core\bin\Debug\net6.0\CollegeApp.Core.deps.json
+D:\Training materials\Fundamentals\CleanArchitectureDemo\CollegeApp.Core\bin\Debug\net6.0\CollegeApp.Core.dll
+D:\Training materials\Fundamentals\CleanArchitectureDemo\CollegeApp.Core\bin\Debug\net6.0\CollegeApp.Core.pdb
+D:\Training materials\Fundamentals\CleanArchitectureDemo\CollegeApp.Core\obj\Debug\net6.0\CollegeApp.Core.csproj.AssemblyReference.cache
+D:\Training materials\Fundamentals\CleanArchitectureDemo\CollegeApp.Core\obj\Debug\net6.0\CollegeApp.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Training materials\Fundamentals\CleanArchitectureDemo\CollegeApp.Core\obj\Debug\net6.0\CollegeApp.Core.AssemblyInfoInputs.cache
+D:\Training materials\Fundamentals\CleanArchitectureDemo\CollegeApp.Core\obj\Debug\net6.0\CollegeApp.Core.AssemblyInfo.cs
+D:\Training materials\Fundamentals\CleanArchitectureDemo\CollegeApp.Core\obj\Debug\net6.0\CollegeApp.Core.csproj.CoreCompileInputs.cache
+D:\Training materials\Fundamentals\CleanArchitectureDemo\CollegeApp.Core\obj\Debug\net6.0\CollegeApp.Core.dll
+D:\Training materials\Fundamentals\CleanArchitectureDemo\CollegeApp.Core\obj\Debug\net6.0\refint\CollegeApp.Core.dll
+D:\Training materials\Fundamentals\CleanArchitectureDemo\CollegeApp.Core\obj\Debug\net6.0\CollegeApp.Core.pdb
+D:\Training materials\Fundamentals\CleanArchitectureDemo\CollegeApp.Core\obj\Debug\net6.0\ref\CollegeApp.Core.dll

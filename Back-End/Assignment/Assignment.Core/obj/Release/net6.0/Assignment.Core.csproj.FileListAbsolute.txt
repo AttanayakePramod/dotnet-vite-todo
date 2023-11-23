@@ -1,0 +1,12 @@
+D:\Projects\Intern assignments\Intern assignments\Back-End\Assignment\Assignment.Core\bin\Release\net6.0\Assignment.Core.deps.json
+D:\Projects\Intern assignments\Intern assignments\Back-End\Assignment\Assignment.Core\bin\Release\net6.0\Assignment.Core.dll
+D:\Projects\Intern assignments\Intern assignments\Back-End\Assignment\Assignment.Core\bin\Release\net6.0\Assignment.Core.pdb
+D:\Projects\Intern assignments\Intern assignments\Back-End\Assignment\Assignment.Core\obj\Release\net6.0\Assignment.Core.csproj.AssemblyReference.cache
+D:\Projects\Intern assignments\Intern assignments\Back-End\Assignment\Assignment.Core\obj\Release\net6.0\Assignment.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Intern assignments\Intern assignments\Back-End\Assignment\Assignment.Core\obj\Release\net6.0\Assignment.Core.AssemblyInfoInputs.cache
+D:\Projects\Intern assignments\Intern assignments\Back-End\Assignment\Assignment.Core\obj\Release\net6.0\Assignment.Core.AssemblyInfo.cs
+D:\Projects\Intern assignments\Intern assignments\Back-End\Assignment\Assignment.Core\obj\Release\net6.0\Assignment.Core.csproj.CoreCompileInputs.cache
+D:\Projects\Intern assignments\Intern assignments\Back-End\Assignment\Assignment.Core\obj\Release\net6.0\Assignment.Core.dll
+D:\Projects\Intern assignments\Intern assignments\Back-End\Assignment\Assignment.Core\obj\Release\net6.0\refint\Assignment.Core.dll
+D:\Projects\Intern assignments\Intern assignments\Back-End\Assignment\Assignment.Core\obj\Release\net6.0\Assignment.Core.pdb
+D:\Projects\Intern assignments\Intern assignments\Back-End\Assignment\Assignment.Core\obj\Release\net6.0\ref\Assignment.Core.dll

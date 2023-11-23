@@ -1,0 +1,312 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Projects\\Intern assignments\\Intern assignments\\Back-End\\Assignment\\Assignment.API\\Assignment.API.csproj": {}
+  },
+  "projects": {
+    "D:\\Projects\\Intern assignments\\Intern assignments\\Back-End\\Assignment\\Assignment.API\\Assignment.API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Projects\\Intern assignments\\Intern assignments\\Back-End\\Assignment\\Assignment.API\\Assignment.API.csproj",
+        "projectName": "Assignment.API",
+        "projectPath": "D:\\Projects\\Intern assignments\\Intern assignments\\Back-End\\Assignment\\Assignment.API\\Assignment.API.csproj",
+        "packagesPath": "C:\\Users\\Pramod\\.nuget\\packages\\",
+        "outputPath": "D:\\Projects\\Intern assignments\\Intern assignments\\Back-End\\Assignment\\Assignment.API\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Pramod\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\Projects\\Intern assignments\\Intern assignments\\Back-End\\Assignment\\Assignment.BusinessLogic\\Assignment.BusinessLogic.csproj": {
+                "projectPath": "D:\\Projects\\Intern assignments\\Intern assignments\\Back-End\\Assignment\\Assignment.BusinessLogic\\Assignment.BusinessLogic.csproj"
+              },
+              "D:\\Projects\\Intern assignments\\Intern assignments\\Back-End\\Assignment\\Assignment.Core\\Assignment.Core.csproj": {
+                "projectPath": "D:\\Projects\\Intern assignments\\Intern assignments\\Back-End\\Assignment\\Assignment.Core\\Assignment.Core.csproj"
+              },
+              "D:\\Projects\\Intern assignments\\Intern assignments\\Back-End\\Assignment\\Assignment.Infrastructure\\Assignment.Infrastructure.csproj": {
+                "projectPath": "D:\\Projects\\Intern assignments\\Intern assignments\\Back-End\\Assignment\\Assignment.Infrastructure\\Assignment.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.0.123, )"
+            },
+            "Npgsql": {
+              "target": "Package",
+              "version": "[8.0.0-preview.4, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[8.0.0-preview.4, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.2.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Projects\\Intern assignments\\Intern assignments\\Back-End\\Assignment\\Assignment.BusinessLogic\\Assignment.BusinessLogic.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Projects\\Intern assignments\\Intern assignments\\Back-End\\Assignment\\Assignment.BusinessLogic\\Assignment.BusinessLogic.csproj",
+        "projectName": "Assignment.BusinessLogic",
+        "projectPath": "D:\\Projects\\Intern assignments\\Intern assignments\\Back-End\\Assignment\\Assignment.BusinessLogic\\Assignment.BusinessLogic.csproj",
+        "packagesPath": "C:\\Users\\Pramod\\.nuget\\packages\\",
+        "outputPath": "D:\\Projects\\Intern assignments\\Intern assignments\\Back-End\\Assignment\\Assignment.BusinessLogic\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Pramod\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\Projects\\Intern assignments\\Intern assignments\\Back-End\\Assignment\\Assignment.Core\\Assignment.Core.csproj": {
+                "projectPath": "D:\\Projects\\Intern assignments\\Intern assignments\\Back-End\\Assignment\\Assignment.Core\\Assignment.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.0.123, )"
+            },
+            "Npgsql": {
+              "target": "Package",
+              "version": "[8.0.0-preview.4, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[8.0.0-preview.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Projects\\Intern assignments\\Intern assignments\\Back-End\\Assignment\\Assignment.Core\\Assignment.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Projects\\Intern assignments\\Intern assignments\\Back-End\\Assignment\\Assignment.Core\\Assignment.Core.csproj",
+        "projectName": "Assignment.Core",
+        "projectPath": "D:\\Projects\\Intern assignments\\Intern assignments\\Back-End\\Assignment\\Assignment.Core\\Assignment.Core.csproj",
+        "packagesPath": "C:\\Users\\Pramod\\.nuget\\packages\\",
+        "outputPath": "D:\\Projects\\Intern assignments\\Intern assignments\\Back-End\\Assignment\\Assignment.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Pramod\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.0.123, )"
+            },
+            "Npgsql": {
+              "target": "Package",
+              "version": "[8.0.0-preview.4, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[8.0.0-preview.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Projects\\Intern assignments\\Intern assignments\\Back-End\\Assignment\\Assignment.Infrastructure\\Assignment.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Projects\\Intern assignments\\Intern assignments\\Back-End\\Assignment\\Assignment.Infrastructure\\Assignment.Infrastructure.csproj",
+        "projectName": "Assignment.Infrastructure",
+        "projectPath": "D:\\Projects\\Intern assignments\\Intern assignments\\Back-End\\Assignment\\Assignment.Infrastructure\\Assignment.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\Pramod\\.nuget\\packages\\",
+        "outputPath": "D:\\Projects\\Intern assignments\\Intern assignments\\Back-End\\Assignment\\Assignment.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Pramod\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\Projects\\Intern assignments\\Intern assignments\\Back-End\\Assignment\\Assignment.BusinessLogic\\Assignment.BusinessLogic.csproj": {
+                "projectPath": "D:\\Projects\\Intern assignments\\Intern assignments\\Back-End\\Assignment\\Assignment.BusinessLogic\\Assignment.BusinessLogic.csproj"
+              },
+              "D:\\Projects\\Intern assignments\\Intern assignments\\Back-End\\Assignment\\Assignment.Core\\Assignment.Core.csproj": {
+                "projectPath": "D:\\Projects\\Intern assignments\\Intern assignments\\Back-End\\Assignment\\Assignment.Core\\Assignment.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.0.123, )"
+            },
+            "Npgsql": {
+              "target": "Package",
+              "version": "[8.0.0-preview.4, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[8.0.0-preview.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

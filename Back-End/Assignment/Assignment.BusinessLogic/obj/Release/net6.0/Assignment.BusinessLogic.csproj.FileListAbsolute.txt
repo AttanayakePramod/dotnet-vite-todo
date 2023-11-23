@@ -1,0 +1,15 @@
+D:\Projects\Intern assignments\Intern assignments\Back-End\Assignment\Assignment.BusinessLogic\bin\Release\net6.0\Assignment.BusinessLogic.deps.json
+D:\Projects\Intern assignments\Intern assignments\Back-End\Assignment\Assignment.BusinessLogic\bin\Release\net6.0\Assignment.BusinessLogic.dll
+D:\Projects\Intern assignments\Intern assignments\Back-End\Assignment\Assignment.BusinessLogic\bin\Release\net6.0\Assignment.BusinessLogic.pdb
+D:\Projects\Intern assignments\Intern assignments\Back-End\Assignment\Assignment.BusinessLogic\bin\Release\net6.0\Assignment.Core.dll
+D:\Projects\Intern assignments\Intern assignments\Back-End\Assignment\Assignment.BusinessLogic\bin\Release\net6.0\Assignment.Core.pdb
+D:\Projects\Intern assignments\Intern assignments\Back-End\Assignment\Assignment.BusinessLogic\obj\Release\net6.0\Assignment.BusinessLogic.csproj.AssemblyReference.cache
+D:\Projects\Intern assignments\Intern assignments\Back-End\Assignment\Assignment.BusinessLogic\obj\Release\net6.0\Assignment.BusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Intern assignments\Intern assignments\Back-End\Assignment\Assignment.BusinessLogic\obj\Release\net6.0\Assignment.BusinessLogic.AssemblyInfoInputs.cache
+D:\Projects\Intern assignments\Intern assignments\Back-End\Assignment\Assignment.BusinessLogic\obj\Release\net6.0\Assignment.BusinessLogic.AssemblyInfo.cs
+D:\Projects\Intern assignments\Intern assignments\Back-End\Assignment\Assignment.BusinessLogic\obj\Release\net6.0\Assignment.BusinessLogic.csproj.CoreCompileInputs.cache
+D:\Projects\Intern assignments\Intern assignments\Back-End\Assignment\Assignment.BusinessLogic\obj\Release\net6.0\Assignment.BusinessLogic.csproj.CopyComplete
+D:\Projects\Intern assignments\Intern assignments\Back-End\Assignment\Assignment.BusinessLogic\obj\Release\net6.0\Assignment.BusinessLogic.dll
+D:\Projects\Intern assignments\Intern assignments\Back-End\Assignment\Assignment.BusinessLogic\obj\Release\net6.0\refint\Assignment.BusinessLogic.dll
+D:\Projects\Intern assignments\Intern assignments\Back-End\Assignment\Assignment.BusinessLogic\obj\Release\net6.0\Assignment.BusinessLogic.pdb
+D:\Projects\Intern assignments\Intern assignments\Back-End\Assignment\Assignment.BusinessLogic\obj\Release\net6.0\ref\Assignment.BusinessLogic.dll
