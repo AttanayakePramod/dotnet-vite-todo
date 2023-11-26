@@ -11,9 +11,10 @@ interface TaskItemProps {
 const options = ["TODO", "In Progress", "Done", "High Priority", "Low", "Medium"];
 const TaskItem: React.FC<TaskItemProps> = ({ task, loadData }) => {
     const [selected, setSelected] = useState(options[0]);
-    const [isModalOpen, setIsModalOpen] = useState(false);
+    const [isModalOpen, setIsModalOpen] = useState(false); // default isModelOpen is false
     const [taskSelected, setTaskSeleted] = useState<Todo | null>()
 
+    // set isModelOpen is true
     const showModal = () => {
         setIsModalOpen(true);
         setTaskSeleted(task)
@@ -94,7 +95,7 @@ const TaskItem: React.FC<TaskItemProps> = ({ task, loadData }) => {
                 </div>
             </li>
 
-            <Modal title={`Edit ${task.title}`} open={isModalOpen} onOk={handleOk} onCancel={handleCancel}>
+            <Modal title={`Edit ${task.title}`} open={isModalOpen} onOk={handleOk} okButtonProps={{ className: "model-ok-button model-ok-text" }} onCancel={handleCancel}>
                 <form className="flex">
                     <div>
                         <input
@@ -119,7 +120,7 @@ const TaskItem: React.FC<TaskItemProps> = ({ task, loadData }) => {
 
                     
                     <div>
-                        <select id="select" value={taskSelected?.status} onChange={handleUpdateChange} className="rounded-md p-1 text-gray-300">
+                        <select id="select" name="status" value={taskSelected?.status} onChange={handleUpdateChange} className="rounded-md p-1 text-gray-300">
                             {options.map((option) => (
                                 <option key={option} value={option}>
                                     {option}

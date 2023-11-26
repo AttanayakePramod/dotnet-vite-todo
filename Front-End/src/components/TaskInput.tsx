@@ -4,7 +4,7 @@ import { generateRandomId } from "../util/Utils";
 import TodoService from "../service/TodoService";
 
 
-const initilaState: Todo = {
+const initialState: Todo = {
   id: '0',
   title: '',
   description: '',
@@ -18,7 +18,7 @@ interface TaskInputProps {
 
 const TaskInput: React.FC<TaskInputProps> = ({ addTask, loadData }) => {
 
-  const [toDoList, setToDoList] = useState<Todo>(initilaState);
+  const [toDoList, setToDoList] = useState<Todo>(initialState);
 
   const handleChange = (e: any) => {
 
@@ -42,7 +42,7 @@ const TaskInput: React.FC<TaskInputProps> = ({ addTask, loadData }) => {
         console.log(e)
       })
 
-      setToDoList(initilaState);
+      setToDoList(initialState);
     }
   };
 
